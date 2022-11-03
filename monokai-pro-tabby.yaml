@@ -1,0 +1,25 @@
+  customColorSchemes:
+    - name: Monokai Pro
+      foreground: '#fcfcfa'
+      background: '#2d2a2e'
+      selection: null
+      cursor: '#FFCC001A'
+      cursorAccent: null
+      colors:
+        - '#2d2a2e'
+        - '#ff6188'
+        - '#a9dc76'
+        - '#ffd866'
+        - '#6699df'
+        - '#ab9df2'
+        - '#78dce8'
+        - '#fcfcfa'
+        - '#676568'
+        - '#ff6188'
+        - '#a9dc76'
+        - '#ffd866'
+        - '#6699df'
+        - '#ab9df2'
+        - '#78dce8'
+        - '#fcfcfa'
+  background: colorScheme
