@@ -1,6 +1,7 @@
 # Monokai Pro for [Tabby](https://github.com/Eugeny/tabby).
 <p align="center">
 	<img src="./screenshot.png"/>
+	<img src="./screenshot2.png"/>
 </p>
 
 ## How to use:
